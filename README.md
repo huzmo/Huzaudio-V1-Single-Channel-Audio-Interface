@@ -1,5 +1,5 @@
 # Single-Channel-Audio-Interface
-(brief Project Summary)
+(Brief Project Summary)
 
 ## Hardware
 (Hardware Summary)
@@ -11,4 +11,4 @@
 (Mechanical Summary)
 
 ## Next Steps
-(Conclsuion and future plans)
+(Conclusion and future plans)
