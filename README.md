@@ -28,7 +28,7 @@ Firmware for the audio interface must receive the converted digital signal via I
 The design for the case is straightforward to ensure functionality. An ample amount of room is provided to ensure that all components fit inside. To shield from EMI, the inside of the case is coated in a conductive material to ensure that EMI cannot leak nor enter and disrupt the sensitive analog signals.
 
 ## Simulation
-To ensure my design worked before ordering the board, I ran some simulations using KiCad's built-in SPLICE simulator. I tested if the input voltage regulators ensured stable power delivery and that the guitar input signal was amplified correctly as seen below.
+To ensure my design worked before ordering the board, I ran some simulations using KiCad's built-in SPICE simulator. I tested if the input voltage regulators ensured stable power delivery and that the guitar input signal was amplified correctly as seen below.
 ![Screenshot 2024-12-19 172754](https://github.com/user-attachments/assets/8ecbbb42-d55f-4b9b-8eff-7ac639f1f66e)
 
 ## Next Steps
