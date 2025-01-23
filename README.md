@@ -1,6 +1,6 @@
 # Huzaudio V1 - Single-Channel-Audio-Interface
 The Huzaudio V1 can record musical instruments such as an electric or bass guitar through a standard 1/4" jack onto a computer through a USB-A port. 
-|![Screenshot 2024-11-17 194844](https://github.com/user-attachments/assets/7f2c3ac2-0692-4775-ae88-94a690f2c0c8)|![Screenshot 2024-11-13 222555](https://github.com/user-attachments/assets/12f6ae82-08d3-4752-8fed-ab773e5d3453)|
+|![Image](https://github.com/user-attachments/assets/6939a45c-0f0c-433f-be5a-2fe05eec53c0)|![Image](https://github.com/user-attachments/assets/6231063b-43f3-4933-8657-e58aa7f2eb36)|
 |:-:|:-:|
 
 
