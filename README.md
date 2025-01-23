@@ -19,7 +19,7 @@ The main issue when it comes to mixed signal boards is signal integrity. Knowing
 | Layer 4  | Digital Signal |
 
 The ground plane in between the two signal layers ensures that they are shielded from one another while also providing a short current return path. Analog and digital components are physically segregated from one another, and the ADC serves as a bridge between the two signal types. The above considerations, as well as low-noise ICs ensure that the instrument signal receives little disruption throughout the circuit. 
-![Screenshot 2024-11-13 222611](https://github.com/user-attachments/assets/f5198d7e-fc96-484f-9680-99d215ecc69a)
+![Image](https://github.com/user-attachments/assets/b8e87b8a-19eb-4a18-9e8b-ec671895981c)
 
 ## Software
 Firmware for the audio interface must receive the converted digital signal via I2C from the analog-digital converter and send appropriately formatted packets to the computer. Software is written in C on the STM32F103C8T6 using the STM32CUBEIDE. The firmware is currently in development.
